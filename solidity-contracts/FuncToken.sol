@@ -12,8 +12,8 @@ import "./StandardToken.sol";
  */
 contract FuncToken is StandardToken {
 
-  string public name = "Func Token";
-  string public symbol = "FUNC";
+  string public name = "0 Avatech Token";
+  string public symbol = "AVT";
   uint256 public decimals = 18;
   uint256 public INITIAL_SUPPLY = 100000000 * 1 ether;
 

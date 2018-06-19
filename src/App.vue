@@ -33,7 +33,7 @@ export default {
 
   data () {
     return {
-      title: 'Func Wallet'
+      title: '0 Avatech Token'
     }
   },
 
